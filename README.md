@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Hello!! I'm <a href="https://www.linkedin.com/in/edududuribeiro/"><i>Mateus Balotin</i></a> 😃️</h1>
-  <p align="center"> I'm very interested and passionate about Data Science and it's areas. <br>
+  <p align="center"> I'm very interested and passionate about Data Science. <br>
   Below you can find some of my projects and Portoflio site.
   </a><br>
   <p align="center">I hope my projects can be of use to you!! Feel free to send me a message if you want to talk about them.</h2>
