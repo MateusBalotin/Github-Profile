@@ -1,12 +1,18 @@
 <div>
-  <h1 align="center">Hello!! I'm <a href="https://www.linkedin.com/in/edududuribeiro/"><i>Mateus Balotin</i></a> 😃️</h1>
+  <h1 align="center">Hello!! I'm <a href="https://www.linkedin.com/in/mateus-balotin-28869b1b0"><i>Mateus Balotin</i></a> 😃️</h1>
   <p align="center"> I'm very interested and passionate about Data Science. <br>
   Below you can find some of my projects and Portoflio site.
   </a><br>
   <p align="center">I hope my projects can be of use to you!! Feel free to send me a message if you want to talk about them.</h2>
 </div>
 
-
+<div> 
+  <h1 align="center"> Projects:</h1>
+  <p align="center"> 
+  Portfolio: https://mateusbalotin.github.io/Mateus_Portfolio/ <br>
+  Craiglist Vehicle Prediction: https://github.com/MateusBalotin/vehicles-craigslist<br>
+  Q-Learning: Cartpole & Freezing Lake: https://github.com/MateusBalotin/IC <br> <p align="center">
+</div>
 
 <div align="center" valign="top"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
