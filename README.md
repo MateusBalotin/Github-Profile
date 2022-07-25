@@ -12,6 +12,7 @@
   Portfolio: https://mateusbalotin.github.io/Mateus_Portfolio/ <br>
   Craiglist Vehicle Prediction: https://github.com/MateusBalotin/vehicles-craigslist<br>
   Q-Learning: Cartpole & Freezing Lake: https://github.com/MateusBalotin/IC <br> <p align="center">
+  NLP: Amazon Reviews: https://github.com/MateusBalotin/NLP-Amazon-Reviews
 </div>
 
 <div align="center" valign="top"><br>
