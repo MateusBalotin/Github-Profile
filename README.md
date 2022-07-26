@@ -4,9 +4,6 @@
   Below you can find some of my projects and Portoflio site.
   </a><br>
   <p align="center">I hope my projects can be of use to you!! Feel free to send me a message if you want to talk about them.</h2>
-  <a href ="https://github.com/MateusBalotin">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=mateusbalotin&show_icons=true&theme=dracula&includeall_all_commit=true&count_private=true"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusbalotin&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div> 
